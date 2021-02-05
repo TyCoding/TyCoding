@@ -6,4 +6,4 @@
 
 🇨🇳 &nbsp;China BeiJing  &nbsp;&nbsp;&nbsp; 🌱 &nbsp;Unknow
 
-[https://tycoding.cn](https://tycoding.cn)
+[http://tycoding.cn](http://tycoding.cn)
