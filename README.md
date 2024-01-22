@@ -8,7 +8,5 @@
 
 微信群交流：v: LangchainChat（备注来意）
 
-![a2d1867f0f0caa315f285924b0f9d8e8_副本](https://github.com/TyCoding/TyCoding/assets/36946717/93f5c454-a594-4f2e-a1ba-2cbc9d1635b0)
-
 
 [http://tycoding.cn](http://tycoding.cn)
