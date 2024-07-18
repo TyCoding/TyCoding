@@ -9,3 +9,7 @@
 微信群交流：v: LangchainChat（备注来意）
 
 [http://tycoding.cn](http://tycoding.cn)
+
+Java生态AIGC大模型产品解决方案，快速构建企业知识库、企业机器人：
+
+[http://langchat.cn](http://langchat.cn)
